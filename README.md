@@ -28,12 +28,12 @@ This script automates the setup of a penetration testing environment by performi
 
 1. **Make the Script Executable:**
    ```sh
-   chmod +x bugbountytools.sh
+   chmod +x wuzz.sh
    ```
 
 2. **Run the Script:**
    ```sh
-   ./bugbountytools.sh
+   ./wuzz.sh
    ```
 
 ### Note:
